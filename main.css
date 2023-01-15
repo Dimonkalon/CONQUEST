@@ -246,7 +246,6 @@ span{
 }
 .banner{
   background-color: #F7F5EF;
-  max-width: 468px;
   width: 100%;
 }
 .container_banner{
@@ -327,7 +326,7 @@ span{
   line-height: 27px;
   font-family: 'Roboto', sans-serif;
   color: #444240;
-  padding-top: 25px;
+  padding-top: 55px;
 }
 .conquest{
   font-weight: 700;
@@ -423,6 +422,7 @@ span{
     }
   .blocks_watch{flex-direction: column;}
   .btn{width: 100%; max-width: unset;}
+	.banner_section{padding-top:55px;}
   .banner_btn{width: auto; max-width: unset;}
   .deskript_header{
     width: auto;
